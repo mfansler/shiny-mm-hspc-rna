@@ -3,7 +3,7 @@ reported in [*Lara-Astiaso et al., Science, 2014*](https://science.sciencemag.or
 
 ### Requirements
 
-The follow packages must be installed in R:
+The following packages must be installed in R:
 
 - shiny
 - tidyverse
@@ -16,4 +16,3 @@ From an R session, run
 ```r
 shiny::runGitHub("mfansler/shiny-mm-hspc-rna", ref="main")
 ```
-
