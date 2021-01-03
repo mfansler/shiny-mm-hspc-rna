@@ -1,5 +1,5 @@
 This repository provides a simple interactive Shiny app for plotting the RNA expression values 
-reported in [*Lara-Astiaso et al., Science, 2014](https://science.sciencemag.org/content/345/6199/943).
+reported in [*Lara-Astiaso et al., Science, 2014*](https://science.sciencemag.org/content/345/6199/943).
 
 ### Requirements
 
