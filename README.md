@@ -9,6 +9,10 @@ The following packages must be installed in R:
 - tidyverse
 - ggplot2 >= 3.3
 
+```r
+install.packages(c('shiny', 'tidyverse', 'ggplot2'))
+```
+
 ### Running
 
 From an R session, run
